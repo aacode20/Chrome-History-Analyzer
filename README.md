@@ -21,7 +21,7 @@ The main template for this project can be found [here](https://geekswipe.net/tec
 
 ## Authors
 
-**Karthikeyan KC ** - *Initial work* - [Karthikeyan KC](https://geekswipe.net/author/karthikeyankc/)
+**Karthikeyan KC** - *Initial work* - [Karthikeyan KC](https://geekswipe.net/author/karthikeyankc/)
 
 ## License
 
